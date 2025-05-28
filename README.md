@@ -16,10 +16,7 @@ A curated collection of Python scripts and projects demonstrating my skills in s
   - [Prerequisites](#prerequisites)  
   - [Installation](#installation)  
 - [Usage](#usage)  
-- [Project List](#project-list)  
-- [Contributing](#contributing)  
-- [License](#license)  
-- [Contact](#contact)  
+
 
 ---
 
@@ -52,9 +49,10 @@ Each folder contains a standalone project with its own README, dependencies, and
 
 Make sure you have installed:
 
-- Python 3.7 or higher  
+- Python 3.11 or higher  
 - `pip` (Python package installer)  
 
-```bash
-python --version
-pip --version
+
+-----------------
+
+<h3> TURKISH : Python öğrenim sürecinde Junior seviye örnek çalışmaları içeren repo. Geliştirme sürecinde AI destekli coding de yapılmıştır. </h3>
